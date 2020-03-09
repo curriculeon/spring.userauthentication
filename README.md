@@ -28,4 +28,4 @@
 
 
 
-_This application is built based on a tutorial found [here](https://github.com/vladimirfomene/springboot-auth-updated.git)._
+_This application is built based on a tutorial found [here](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)._

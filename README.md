@@ -14,7 +14,6 @@
             * `curl http://localhost:9090/tasks`
         * **Add a Task**
             * ```
-              # issue a POST request to create a new task
               curl -H "Content-Type: application/json" -X POST -d '{
                   "description": "Buy some milk(shake)"
               }'  http://localhost:8080/tasks
